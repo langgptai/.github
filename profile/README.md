@@ -21,40 +21,6 @@ We are dedicated to democratizing the art and science of prompt engineering. Our
 - 🛠️ **Advanced Tools**: Create innovative tools like multi-agent systems for prompt generation
 - 🌍 **Global Community**: Foster a collaborative environment for prompt enthusiasts worldwide
 
-## 🌟 Featured Projects
-
-### 🏆 [LangGPT](https://github.com/langgptai/LangGPT)
-Our flagship project with **9.6k+ stars**! The foundational framework for structured prompt engineering.
-- 🔧 Structured Prompt methodology
-- 📖 Comprehensive documentation
-- 🎨 Created by 「云中江树」
-
-### 🔥 [Wonderful Prompts](https://github.com/langgptai/wonderful-prompts)
-A curated collection of **4.3k+ starred** Chinese prompts that enhance ChatGPT's capabilities.
-- ✨ High-quality prompt selection
-- 📝 Usage guidelines and examples
-- 🚀 Productivity boosters
-
-### 🤖 [Awesome Claude Prompts](https://github.com/langgptai/awesome-claude-prompts)
-**2.4k+ stars** collection specifically designed for Claude AI optimization.
-- 🎯 Claude-specific prompts
-- 🔍 Advanced techniques
-- 💡 Best practices
-
-## 📊 Stats & Milestones
-
-- 🌟 **15k+** total stars across repositories
-- 👥 **279** followers and growing
-- 📚 **26** active repositories
-- 🔥 **1.8k** total forks
-- 🌍 Contributors from **50+** countries
-
-## 📞 Get In Touch
-
-- 📧 **Email**: ethereal_ai@hotmail.com
-- 🐦 **Twitter**: [云中江树](https://x.com/cloudjiangshu)
-- 微信公众号：「云中江树」
-
 <!--
 
 **Here are some ideas to get you started:**
