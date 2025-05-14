@@ -2,8 +2,8 @@
   <h2>🚀 Everything about prompts, all in one place！人人都能写出高质量提示词！🚀</h2>
   <p><em>by 云中江树 (微信公众号: 云中江树)</em></p>
   <br/>
-  <img src="https://img.shields.io/github/followers/langgptai?style=social" alt="GitHub followers">
   <img src="https://img.shields.io/github/stars/langgptai?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/followers/langgptai?style=social" alt="GitHub followers">
   <br/>
   <a href="mailto:contact@langgptai.com">📧 contact@langgpt.ai</a> | 
   <a href="https://feishu.langgpt.ai">🌐 feishu.langgpt.ai</a>
